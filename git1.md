@@ -12,4 +12,6 @@
 
 6. Add one line in br2.
 
+8. Balabala on br2.
+
 conflict resolved, done!
