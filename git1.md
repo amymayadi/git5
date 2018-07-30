@@ -8,12 +8,16 @@
 
 4. I think there must be something lost.
 
-7. Hey hey on master parallel with br2
-
 6. Add one line in br2.
+
+7. Hey hey on master parallel with br2
 
 8. Balabala on br2.
 
 conflict resolved, done!
 
+9. Line 9 on rebasebr.
+
 10. Change 10 on master.
+
+11.Finish on rebasebr.
