@@ -9,3 +9,7 @@
 4. I think there must be something lost.
 
 7. Hey hey on master parallel with br2
+
+6. Add one line in br2.
+
+conflict resolved, done!
